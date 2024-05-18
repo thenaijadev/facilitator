@@ -90,7 +90,7 @@ class _OtpScreenState extends State<OtpScreen> {
                     height: 50,
                   ),
                   Image.asset(
-                    "assets/images/rafiki.png",
+                    "assets/images/otp.png",
                     width: MediaQuery.of(context).size.width * .8,
                   ),
                   const SizedBox(
